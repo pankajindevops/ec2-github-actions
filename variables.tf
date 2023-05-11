@@ -1,3 +1,5 @@
+# File - variable.tf
+
 variable "aws_region" {
   description = "Name of the Region to be created"
   default     = "us-east-1"

@@ -1,3 +1,5 @@
+# File - .gitignore
+
 # Exclude .git and .terraform files
 **/.git
 **/.terraform
